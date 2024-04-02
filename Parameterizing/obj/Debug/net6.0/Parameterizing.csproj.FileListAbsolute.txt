@@ -1,0 +1,36 @@
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing\bin\Debug\net6.0\Parameterizing.exe
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing\bin\Debug\net6.0\Parameterizing.deps.json
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing\bin\Debug\net6.0\Parameterizing.runtimeconfig.json
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing\bin\Debug\net6.0\Parameterizing.dll
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing\bin\Debug\net6.0\Parameterizing.pdb
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing\bin\Debug\net6.0\nunit.framework.dll
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing\bin\Debug\net6.0\nunit.framework.legacy.dll
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing\obj\Debug\net6.0\Parameterizing.csproj.AssemblyReference.cache
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing\obj\Debug\net6.0\Parameterizing.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing\obj\Debug\net6.0\Parameterizing.AssemblyInfoInputs.cache
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing\obj\Debug\net6.0\Parameterizing.AssemblyInfo.cs
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing\obj\Debug\net6.0\Parameterizing.csproj.CoreCompileInputs.cache
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing\obj\Debug\net6.0\Parameterizing.csproj.CopyComplete
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing\obj\Debug\net6.0\Parameterizing.dll
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing\obj\Debug\net6.0\refint\Parameterizing.dll
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing\obj\Debug\net6.0\Parameterizing.pdb
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing\obj\Debug\net6.0\Parameterizing.genruntimeconfig.cache
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing\obj\Debug\net6.0\ref\Parameterizing.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing\bin\Debug\net6.0\Parameterizing.exe
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing\bin\Debug\net6.0\Parameterizing.deps.json
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing\bin\Debug\net6.0\Parameterizing.runtimeconfig.json
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing\bin\Debug\net6.0\Parameterizing.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing\bin\Debug\net6.0\Parameterizing.pdb
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing\bin\Debug\net6.0\nunit.framework.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing\bin\Debug\net6.0\nunit.framework.legacy.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing\obj\Debug\net6.0\Parameterizing.csproj.AssemblyReference.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing\obj\Debug\net6.0\Parameterizing.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing\obj\Debug\net6.0\Parameterizing.AssemblyInfoInputs.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing\obj\Debug\net6.0\Parameterizing.AssemblyInfo.cs
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing\obj\Debug\net6.0\Parameterizing.csproj.CoreCompileInputs.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing\obj\Debug\net6.0\Parameterizing.csproj.CopyComplete
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing\obj\Debug\net6.0\Parameterizing.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing\obj\Debug\net6.0\refint\Parameterizing.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing\obj\Debug\net6.0\Parameterizing.pdb
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing\obj\Debug\net6.0\Parameterizing.genruntimeconfig.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing\obj\Debug\net6.0\ref\Parameterizing.dll

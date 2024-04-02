@@ -1,0 +1,15 @@
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\16.Lab5\bin\Debug\net6.0\16.Lab5.exe
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\16.Lab5\bin\Debug\net6.0\16.Lab5.deps.json
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\16.Lab5\bin\Debug\net6.0\16.Lab5.runtimeconfig.json
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\16.Lab5\bin\Debug\net6.0\16.Lab5.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\16.Lab5\bin\Debug\net6.0\16.Lab5.pdb
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\16.Lab5\obj\Debug\net6.0\16.Lab5.csproj.AssemblyReference.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\16.Lab5\obj\Debug\net6.0\16.Lab5.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\16.Lab5\obj\Debug\net6.0\16.Lab5.AssemblyInfoInputs.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\16.Lab5\obj\Debug\net6.0\16.Lab5.AssemblyInfo.cs
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\16.Lab5\obj\Debug\net6.0\16.Lab5.csproj.CoreCompileInputs.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\16.Lab5\obj\Debug\net6.0\16.Lab5.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\16.Lab5\obj\Debug\net6.0\refint\16.Lab5.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\16.Lab5\obj\Debug\net6.0\16.Lab5.pdb
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\16.Lab5\obj\Debug\net6.0\16.Lab5.genruntimeconfig.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\16.Lab5\obj\Debug\net6.0\ref\16.Lab5.dll

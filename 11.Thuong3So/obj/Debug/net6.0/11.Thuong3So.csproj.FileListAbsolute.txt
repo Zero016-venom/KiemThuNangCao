@@ -1,0 +1,15 @@
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\11.Thuong3So\bin\Debug\net6.0\11.Thuong3So.exe
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\11.Thuong3So\bin\Debug\net6.0\11.Thuong3So.deps.json
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\11.Thuong3So\bin\Debug\net6.0\11.Thuong3So.runtimeconfig.json
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\11.Thuong3So\bin\Debug\net6.0\11.Thuong3So.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\11.Thuong3So\bin\Debug\net6.0\11.Thuong3So.pdb
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\11.Thuong3So\obj\Debug\net6.0\11.Thuong3So.csproj.AssemblyReference.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\11.Thuong3So\obj\Debug\net6.0\11.Thuong3So.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\11.Thuong3So\obj\Debug\net6.0\11.Thuong3So.AssemblyInfoInputs.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\11.Thuong3So\obj\Debug\net6.0\11.Thuong3So.AssemblyInfo.cs
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\11.Thuong3So\obj\Debug\net6.0\11.Thuong3So.csproj.CoreCompileInputs.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\11.Thuong3So\obj\Debug\net6.0\11.Thuong3So.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\11.Thuong3So\obj\Debug\net6.0\refint\11.Thuong3So.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\11.Thuong3So\obj\Debug\net6.0\11.Thuong3So.pdb
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\11.Thuong3So\obj\Debug\net6.0\11.Thuong3So.genruntimeconfig.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\11.Thuong3So\obj\Debug\net6.0\ref\11.Thuong3So.dll

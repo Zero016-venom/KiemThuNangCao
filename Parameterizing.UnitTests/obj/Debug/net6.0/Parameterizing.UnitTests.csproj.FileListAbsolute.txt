@@ -1,0 +1,36 @@
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing.UnitTests\obj\Debug\net6.0\Parameterizing.UnitTests.csproj.AssemblyReference.cache
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing.UnitTests\obj\Debug\net6.0\Parameterizing.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing.UnitTests\obj\Debug\net6.0\Parameterizing.UnitTests.AssemblyInfoInputs.cache
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing.UnitTests\obj\Debug\net6.0\Parameterizing.UnitTests.AssemblyInfo.cs
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing.UnitTests\obj\Debug\net6.0\Parameterizing.UnitTests.csproj.CoreCompileInputs.cache
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing.UnitTests\bin\Debug\net6.0\Parameterizing.UnitTests.exe
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing.UnitTests\bin\Debug\net6.0\Parameterizing.UnitTests.deps.json
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing.UnitTests\bin\Debug\net6.0\Parameterizing.UnitTests.runtimeconfig.json
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing.UnitTests\bin\Debug\net6.0\Parameterizing.UnitTests.dll
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing.UnitTests\bin\Debug\net6.0\Parameterizing.UnitTests.pdb
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing.UnitTests\bin\Debug\net6.0\nunit.framework.dll
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing.UnitTests\bin\Debug\net6.0\nunit.framework.legacy.dll
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing.UnitTests\obj\Debug\net6.0\Parameterizing.UnitTests.csproj.CopyComplete
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing.UnitTests\obj\Debug\net6.0\Parameterizing.UnitTests.dll
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing.UnitTests\obj\Debug\net6.0\refint\Parameterizing.UnitTests.dll
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing.UnitTests\obj\Debug\net6.0\Parameterizing.UnitTests.pdb
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing.UnitTests\obj\Debug\net6.0\Parameterizing.UnitTests.genruntimeconfig.cache
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\Parameterizing.UnitTests\obj\Debug\net6.0\ref\Parameterizing.UnitTests.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing.UnitTests\bin\Debug\net6.0\Parameterizing.UnitTests.exe
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing.UnitTests\bin\Debug\net6.0\Parameterizing.UnitTests.deps.json
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing.UnitTests\bin\Debug\net6.0\Parameterizing.UnitTests.runtimeconfig.json
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing.UnitTests\bin\Debug\net6.0\Parameterizing.UnitTests.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing.UnitTests\bin\Debug\net6.0\Parameterizing.UnitTests.pdb
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing.UnitTests\bin\Debug\net6.0\nunit.framework.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing.UnitTests\bin\Debug\net6.0\nunit.framework.legacy.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing.UnitTests\obj\Debug\net6.0\Parameterizing.UnitTests.csproj.AssemblyReference.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing.UnitTests\obj\Debug\net6.0\Parameterizing.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing.UnitTests\obj\Debug\net6.0\Parameterizing.UnitTests.AssemblyInfoInputs.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing.UnitTests\obj\Debug\net6.0\Parameterizing.UnitTests.AssemblyInfo.cs
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing.UnitTests\obj\Debug\net6.0\Parameterizing.UnitTests.csproj.CoreCompileInputs.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing.UnitTests\obj\Debug\net6.0\Parameterizing.UnitTests.csproj.CopyComplete
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing.UnitTests\obj\Debug\net6.0\Parameterizing.UnitTests.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing.UnitTests\obj\Debug\net6.0\refint\Parameterizing.UnitTests.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing.UnitTests\obj\Debug\net6.0\Parameterizing.UnitTests.pdb
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing.UnitTests\obj\Debug\net6.0\Parameterizing.UnitTests.genruntimeconfig.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\Parameterizing.UnitTests\obj\Debug\net6.0\ref\Parameterizing.UnitTests.dll

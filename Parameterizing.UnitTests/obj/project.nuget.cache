@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/vn/ndUQDCMxnmQFEYO/asery+x7bLoJ28y+V53B6HKAP9LyBrurBQt/ijh41r8IdpnxUtKjFXyZIbI93S6NGQ==",
+  "success": true,
+  "projectFilePath": "E:\\CODE\\VisualStudio\\SOF304\\KiemThuNangCao\\Parameterizing.UnitTests\\Parameterizing.UnitTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HoangAnh\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

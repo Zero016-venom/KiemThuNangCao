@@ -1,0 +1,15 @@
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\5.TinhThuong\bin\Debug\net6.0\5.TinhThuong.exe
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\5.TinhThuong\bin\Debug\net6.0\5.TinhThuong.deps.json
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\5.TinhThuong\bin\Debug\net6.0\5.TinhThuong.runtimeconfig.json
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\5.TinhThuong\bin\Debug\net6.0\5.TinhThuong.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\5.TinhThuong\bin\Debug\net6.0\5.TinhThuong.pdb
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\5.TinhThuong\obj\Debug\net6.0\5.TinhThuong.csproj.AssemblyReference.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\5.TinhThuong\obj\Debug\net6.0\5.TinhThuong.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\5.TinhThuong\obj\Debug\net6.0\5.TinhThuong.AssemblyInfoInputs.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\5.TinhThuong\obj\Debug\net6.0\5.TinhThuong.AssemblyInfo.cs
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\5.TinhThuong\obj\Debug\net6.0\5.TinhThuong.csproj.CoreCompileInputs.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\5.TinhThuong\obj\Debug\net6.0\5.TinhThuong.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\5.TinhThuong\obj\Debug\net6.0\refint\5.TinhThuong.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\5.TinhThuong\obj\Debug\net6.0\5.TinhThuong.pdb
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\5.TinhThuong\obj\Debug\net6.0\5.TinhThuong.genruntimeconfig.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\5.TinhThuong\obj\Debug\net6.0\ref\5.TinhThuong.dll

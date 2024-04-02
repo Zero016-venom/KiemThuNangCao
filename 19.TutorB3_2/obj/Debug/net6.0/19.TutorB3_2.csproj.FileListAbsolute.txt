@@ -1,0 +1,15 @@
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\19.TutorB3_2\bin\Debug\net6.0\19.TutorB3_2.exe
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\19.TutorB3_2\bin\Debug\net6.0\19.TutorB3_2.deps.json
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\19.TutorB3_2\bin\Debug\net6.0\19.TutorB3_2.runtimeconfig.json
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\19.TutorB3_2\bin\Debug\net6.0\19.TutorB3_2.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\19.TutorB3_2\bin\Debug\net6.0\19.TutorB3_2.pdb
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\19.TutorB3_2\obj\Debug\net6.0\19.TutorB3_2.csproj.AssemblyReference.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\19.TutorB3_2\obj\Debug\net6.0\19.TutorB3_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\19.TutorB3_2\obj\Debug\net6.0\19.TutorB3_2.AssemblyInfoInputs.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\19.TutorB3_2\obj\Debug\net6.0\19.TutorB3_2.AssemblyInfo.cs
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\19.TutorB3_2\obj\Debug\net6.0\19.TutorB3_2.csproj.CoreCompileInputs.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\19.TutorB3_2\obj\Debug\net6.0\19.TutorB3_2.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\19.TutorB3_2\obj\Debug\net6.0\refint\19.TutorB3_2.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\19.TutorB3_2\obj\Debug\net6.0\19.TutorB3_2.pdb
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\19.TutorB3_2\obj\Debug\net6.0\19.TutorB3_2.genruntimeconfig.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\19.TutorB3_2\obj\Debug\net6.0\ref\19.TutorB3_2.dll

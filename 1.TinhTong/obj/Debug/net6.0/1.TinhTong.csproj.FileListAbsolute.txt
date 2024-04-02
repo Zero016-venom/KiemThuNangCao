@@ -1,0 +1,36 @@
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\1.TinhTong\bin\Debug\net6.0\1.TinhTong.exe
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\1.TinhTong\bin\Debug\net6.0\1.TinhTong.deps.json
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\1.TinhTong\bin\Debug\net6.0\1.TinhTong.runtimeconfig.json
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\1.TinhTong\bin\Debug\net6.0\1.TinhTong.dll
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\1.TinhTong\bin\Debug\net6.0\1.TinhTong.pdb
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\1.TinhTong\obj\Debug\net6.0\1.TinhTong.csproj.AssemblyReference.cache
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\1.TinhTong\obj\Debug\net6.0\1.TinhTong.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\1.TinhTong\obj\Debug\net6.0\1.TinhTong.AssemblyInfoInputs.cache
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\1.TinhTong\obj\Debug\net6.0\1.TinhTong.AssemblyInfo.cs
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\1.TinhTong\obj\Debug\net6.0\1.TinhTong.csproj.CoreCompileInputs.cache
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\1.TinhTong\obj\Debug\net6.0\1.TinhTong.dll
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\1.TinhTong\obj\Debug\net6.0\refint\1.TinhTong.dll
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\1.TinhTong\obj\Debug\net6.0\1.TinhTong.pdb
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\1.TinhTong\obj\Debug\net6.0\1.TinhTong.genruntimeconfig.cache
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\1.TinhTong\obj\Debug\net6.0\ref\1.TinhTong.dll
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\1.TinhTong\bin\Debug\net6.0\nunit.framework.dll
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\1.TinhTong\bin\Debug\net6.0\nunit.framework.legacy.dll
+E:\CODE\VisualStudio\Web ASP.Net Core\School\KiemThuNangCao\1.TinhTong\obj\Debug\net6.0\1.TinhTong.csproj.CopyComplete
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\1.TinhTong\bin\Debug\net6.0\1.TinhTong.exe
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\1.TinhTong\bin\Debug\net6.0\1.TinhTong.deps.json
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\1.TinhTong\bin\Debug\net6.0\1.TinhTong.runtimeconfig.json
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\1.TinhTong\bin\Debug\net6.0\1.TinhTong.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\1.TinhTong\bin\Debug\net6.0\1.TinhTong.pdb
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\1.TinhTong\bin\Debug\net6.0\nunit.framework.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\1.TinhTong\bin\Debug\net6.0\nunit.framework.legacy.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\1.TinhTong\obj\Debug\net6.0\1.TinhTong.csproj.AssemblyReference.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\1.TinhTong\obj\Debug\net6.0\1.TinhTong.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\1.TinhTong\obj\Debug\net6.0\1.TinhTong.AssemblyInfoInputs.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\1.TinhTong\obj\Debug\net6.0\1.TinhTong.AssemblyInfo.cs
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\1.TinhTong\obj\Debug\net6.0\1.TinhTong.csproj.CoreCompileInputs.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\1.TinhTong\obj\Debug\net6.0\1.TinhTong.csproj.CopyComplete
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\1.TinhTong\obj\Debug\net6.0\1.TinhTong.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\1.TinhTong\obj\Debug\net6.0\refint\1.TinhTong.dll
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\1.TinhTong\obj\Debug\net6.0\1.TinhTong.pdb
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\1.TinhTong\obj\Debug\net6.0\1.TinhTong.genruntimeconfig.cache
+E:\CODE\VisualStudio\SOF304\KiemThuNangCao\1.TinhTong\obj\Debug\net6.0\ref\1.TinhTong.dll
